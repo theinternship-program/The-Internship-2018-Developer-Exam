@@ -110,3 +110,5 @@ int main(int argc, char* argv[]) {
 5. Submit ในระบบ หรือส่งไฟล์ตามที่ระบุในเว็บไซต์
 
 ตัวอย่าง Folder Structure ที่มี Readme.txt ด้วย
+
+![Folder Structure](https://github.com/theinternship-program/The-Internship-2018-Developer-Exam/blob/master/folder-structure.png?raw=true)
