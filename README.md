@@ -70,6 +70,13 @@ void delete(int i)
     }
 }
 
+//ไม่ได้ใช้แล้วค่ะ
+int show_prime() {
+    
+    
+    return 0;
+}
+
 int main(int argc, char* argv[]) {
   n = atoi(argv[1]);
   
