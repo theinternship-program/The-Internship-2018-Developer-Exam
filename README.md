@@ -47,7 +47,7 @@
 
 ```
 > formatter 1234567890123 x-xxxx-xxxxx-xx-x
-1-2345-56789-0-12-3
+1-2345-67890-12-3
 ```
 
 # [ตอนที่ 2]
@@ -68,13 +68,6 @@ void delete(int i)
             prime[index] = false;
         }
     }
-}
-
-//ไม่ได้ใช้แล้วค่ะ
-int show_prime() {
-    
-    
-    return 0;
 }
 
 int main(int argc, char* argv[]) {
